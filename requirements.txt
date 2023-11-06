@@ -1,0 +1,10 @@
+# Necessary streamlit dependencies
+streamlit
+plotly
+pandas
+numpy
+
+# Travel apis
+amadeus
+skyscanner
+kiwi
